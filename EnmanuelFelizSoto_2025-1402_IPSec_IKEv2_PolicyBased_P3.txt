@@ -1,7 +1,7 @@
 ! ============================================================
 ! VPN Lab 04 - IPSec IKEv2 Policy-Based
 ! Crypto Map + IKEv2 Keyring/Profile
-! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 5 - Lunes
+! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 5
 ! ITLA - Seguridad en Redes
 ! ============================================================
 
