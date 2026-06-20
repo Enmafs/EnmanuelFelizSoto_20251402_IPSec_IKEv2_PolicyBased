@@ -55,7 +55,7 @@ Versión mejorada del Lab01 usando IKEv2. Mayor seguridad, menos round-trips de 
 ## ⚙️ Configuración
 
 El script completo de configuración se encuentra en:  
-📄 [`Lab04_IPSec_IKEv2_PolicyBased.txt`](./Lab04_IPSec_IKEv2_PolicyBased.txt)
+📄 [`EnmanuelFelizSoto_2025-1402_IPSec_IKEv2_PolicyBased_P3.txt`](./EnmanuelFelizSoto_2025-1402_IPSec_IKEv2_PolicyBased_P3.txt)
 
 ### Parámetros IKE/IPSec
 
@@ -129,7 +129,7 @@ ping 10.14.23.10 source 10.14.13.2
 | Recurso | Enlace |
 |---------|--------|
 | Repositorio Principal | [Enmafs/NetSec](https://github.com/Enmafs/NetSec) |
-| Script de configuración | [`Lab04_IPSec_IKEv2_PolicyBased.txt`](./Lab04_IPSec_IKEv2_PolicyBased.txt) |
+| Script de configuración | [`EnmanuelFelizSoto_2025-1402_IPSec_IKEv2_PolicyBased_P3.txt`](./EnmanuelFelizSoto_2025-1402_IPSec_IKEv2_PolicyBased_P3.txt) |
 | Video demostración | 🎬 https://youtu.be/k2m9IQmynow |
 
 ---
