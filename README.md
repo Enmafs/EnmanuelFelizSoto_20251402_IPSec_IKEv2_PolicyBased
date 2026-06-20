@@ -130,7 +130,7 @@ ping 10.14.23.10 source 10.14.13.2
 |---------|--------|
 | Repositorio Principal | [Enmafs/NetSec](https://github.com/Enmafs/NetSec) |
 | Script de configuración | [`Lab04_IPSec_IKEv2_PolicyBased.txt`](./Lab04_IPSec_IKEv2_PolicyBased.txt) |
-| Video demostración | 🎬 **[PENDIENTE — agregar link de YouTube]** |
+| Video demostración | 🎬 https://youtu.be/k2m9IQmynow |
 
 ---
 
